@@ -4,6 +4,7 @@ author: "Sophie Kent-Purcell"
 date: "2025-11-1"
 output: html_document
 ---
+###### Github user name: SophieKent-Purcell
 
 ### A Summary of: Landscape connectivity for bobcat (*Lynx rufus*) and lynx (*Lynx canadensis*) in the Northeastern United States
 
