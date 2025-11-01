@@ -10,5 +10,9 @@ output: html_document
 Farrell, L. E., Levy, D. M., Donovan, T., Mickey, R., Howard, A., Vashon, J., Freeman, M., Royar, K., & Kilpatrick, C. W. (2018). Landscape connectivity for bobcat (*Lynx rufus*) and lynx (*Lynx canadensis*) in the Northeastern United States. *PLoS ONE*, *13*(3), e0194243. <https://doi.org/10.1371/journal.pone.0194243>
 
 #### Introduction
+
 #### Methods
+
+![Regional area of analyses](Figure1.png){width=75% height=75%}
+
 #### Results and Conclusion
