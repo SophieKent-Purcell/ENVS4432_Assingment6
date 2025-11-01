@@ -12,6 +12,8 @@ Farrell, L. E., Levy, D. M., Donovan, T., Mickey, R., Howard, A., Vashon, J., Fr
 
 #### Introduction
 
+Habitat fragmentation has been increasing across the Northern United States due to human expansion. This is problematic for wildlife species such as bobcat (*Lynx rufus*) and lynx (*Lynx canadensis*), which  require large amount of connected habitat for their seasonal shifts in habitat and long term gene flow within metapopulations. Creating conservation strategies to ensure species have adequate connected habitat is challenging because different species like bobcat and lynx have largely different habitat requirements and different spatial scale for these requirements. An a additional challenge is presented by the fact that in many areas, the suitability and connectivty of habitat for many species is unknown.
+
 #### Methods
 
 ![Regional area of analyses](Figure1.png){width=75% height=75%}
