@@ -4,6 +4,7 @@ author: "Sophie Kent-Purcell"
 date: "2025-11-1"
 output: html_document
 ---
+
 ###### Github user name: SophieKent-Purcell
 
 ### A Summary of: Landscape connectivity for bobcat (*Lynx rufus*) and lynx (*Lynx canadensis*) in the Northeastern United States
@@ -12,11 +13,14 @@ Farrell, L. E., Levy, D. M., Donovan, T., Mickey, R., Howard, A., Vashon, J., Fr
 
 #### Introduction
 
-  Habitat fragmentation has been increasing across the Northern United States due to human expansion. This is problematic for wildlife species such as bobcat (*Lynx rufus*) and lynx (*Lynx canadensis*), which  require large amount of connected habitat for their seasonal shifts in habitat and for long term gene flow within metapopulations. Creating conservation strategies to ensure species have adequate connected habitat is challenging because different species like bobcat and lynx have largely different habitat requirements and different spatial scale for these requirements. An additional challenge is presented by the fact that in many areas, the suitability and connectivity of habitat for many species is unknown. GPS tracking is one way to identify what conditions are required for suitable habitat. This information can then be used to model how core habitat areas are connected. Such models are lacking for both lynx and bobcat in the Northeast United States. This study aims to connectivity models for lynx and bobcat across Vermont, New Hampshire, and Maine based on habitat suitability requirements determined through GPS tracking and a Partitioned Mahalanobis Distance Squared analysis (D^2^).
+Habitat fragmentation has been increasing across the Northern United States due to human expansion. This is problematic for wildlife species such as bobcat (*Lynx rufus*) and lynx (*Lynx canadensis*), which require large amount of connected habitat for their seasonal shifts in habitat and for long term gene flow within metapopulations. Creating conservation strategies to ensure species have adequate connected habitat is challenging because different species like bobcat and lynx have largely different habitat requirements and different spatial scale for these requirements. An additional challenge is presented by the fact that in many areas, the suitability and connectivity of habitat for many species is unknown. GPS tracking is one way to identify what conditions are required for suitable habitat. This information can then be used to model how core habitat areas are connected. Such models are lacking for both lynx and bobcat in the Northeast United States. This study aims to connectivity models for lynx and bobcat across Vermont, New Hampshire, and Maine based on habitat suitability requirements determined from a Partitioned Mahalanobis Distance Squared analysis (D^2^) using GPS collar data.
 
 #### Methods
 
+The area being analysed in this study covers the states of Vermont, New Hampshire, and Maine (Fig 1.). GPS radio-collar location data for lynx were provided by the Maine Department of Inland Fisheries and Wildlife and consisted of data from 2005 to 2010. Similarly, bobcat GPS radio-collar locations from 2005 to 2008 were provided by the Vermont cooperative Fish and Wildlife Research Unit. A maximum of 200 locations was chosen from each collar to minimize bias from collars used for longer. 
 
-![Regional area of analyses](Figure1.png){width=75% height=75%}
+To assess habitat suitability, lynx and bobcat occurance data were compared to 39 environmental variables at three spatial scales; local distance, daily distance, and female home range size. A neighborhood analysis was preformed on binary layers representing each variable to determine which variables were consistently present across species occurrence locations. This and all other mapping operations were done in ArcMap 9.3 or ArcMap 10. 
+
+![Figure 1: Regional area of analyses](Figure1.png){width="75%" height="75%"}
 
 #### Results and Conclusion
